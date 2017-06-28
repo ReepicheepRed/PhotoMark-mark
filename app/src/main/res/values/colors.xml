@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <!--<color name="white">#ffffff</color>-->
+    <color name="gray">#666666</color>
+    <color name="dialog_title">#ffff0000</color>
+    <color name="common_background">#f5f3f0</color>
+    <color name="txt_color_gray_3">#cbc4c6</color>
+	<color name="pink">#ff5d65</color>
+	<color name="brown">#cccccc</color>
+    <color name="pale_pink">#cbc4c6</color>
+    <color name="divider">#e8e3e3</color>
+    <color name="tabcolor">#6e686a</color>
+    <!-- [begin]crop -->
+    
+    <color name="crop_bg">#D5D5D5</color>
+    
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <!-- [end]crop -->
+
+    <!--Theme-->
+    <color name="red">#FF6347</color>
+    <color name="dark_red">#F4511E</color>
+    <color name="accent_red">#FF5722</color>
+    <!--Theme-->
+
+    <color name="blue">#2196f3</color>
+    <color name="dark_blue">#1976D2</color>
+    <color name="accent_blue">#448AFF</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="light_grey">#ffbebebe</color>
+    <color name="color_white_point_4">#66ffffff</color>
+    <color name="color_white_point_5">#80ffffff</color>
+    <color name="color_black_percent_8">#14000000</color>
+    <color name="text_3_c">#333333</color>
+    <color name="divider_ea_c">#eaeaea</color>
+    <color name="bg_f5_c">#f5f5f5</color>
+    <color name="text_9_c">#999999</color>
+    <color name="grace_black_c">#26292e</color>
+    <color name="bar_black_c">#181b20</color>
+    <color name="bar_red_c">#f00659</color>
+    <color name="light_blue">#007aff</color>
+    <color name="color_fb">#fbfbfb</color>
+    <color name="color_bf">#bfbfbf</color>
+    <color name="color_tab_red">#e20755</color>
+    <color name="color_tab_gray">#8c8d90</color>
+    <color name="color_f8">#f8f8f8</color>
+
+    <!--text color start-->
+    <!--<color name="color_1">#D63B4B</color>-->
+    <!--<color name="color_2">#FFDCBE</color>-->
+    <!--<color name="color_3">#CDE6C8</color>-->
+    <!--<color name="color_4">#AFB5D9</color>-->
+    <!--<color name="color_5">#928597</color>-->
+    <!--<color name="color_6">#F6ACBB</color>-->
+
+    <!--<color name="color_7">#AFDEE4</color>-->
+    <!--<color name="color_8">#DFC674</color>-->
+    <!--<color name="color_9">#92D6ED</color>-->
+    <!--<color name="color_10">#F0725B</color>-->
+    <!--<color name="color_11">#85BF96</color>-->
+    <!--<color name="color_12">#78AB98</color>-->
+
+    <!--<color name="color_13">#45B97C</color>-->
+    <!--<color name="color_14">#D63B4B</color>-->
+    <!--<color name="color_15">#CD9A5B</color>-->
+    <!--<color name="color_16">#66C195</color>-->
+    <!--<color name="color_17">#A0393A</color>-->
+    <!--<color name="color_18">#F47A55</color>-->
+
+    <!--<color name="color_19">#78CDD0</color>-->
+    <!--<color name="color_20">#9D9087</color>-->
+    <!--<color name="color_21">#8B8C8E</color>-->
+    <!--<color name="color_22">#7D8578</color>-->
+    <!--<color name="color_23">#32A4DA</color>-->
+    <!--<color name="color_24">#FFD401</color>-->
+
+    <!--<color name="color_25">#6E61A9</color>-->
+    <!--<color name="color_26">#8551A4</color>-->
+    <!--<color name="color_27">#027846</color>-->
+    <!--<color name="color_28">#C73C27</color>-->
+    <!--<color name="color_29">#E1861B</color>-->
+    <!--<color name="color_30">#281E1C</color>-->
+    <!--text color end-->
+    <!--<color name="colorPrimary">#3FA862</color>-->
+    <!--<color name="colorPrimaryDark">#3FA862</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="black_2e3138_c">#2e3138</color>
+</resources>

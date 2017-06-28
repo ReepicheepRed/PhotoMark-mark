@@ -1,0 +1,17 @@
+# ninja log v5
+0	98	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+98	305	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+1	218	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+219	422	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+26	476	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+476	1198	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+1	128	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+128	260	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+1	128	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+128	274	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+1	128	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+128	276	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+0	254	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+254	424	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f
+1	125	0	CMakeFiles/native-lib.dir/jni_lib.cpp.o	9cda7ee01a45974a
+125	271	0	D:/Android/AndroidProjects/PhotoMark-mark/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	b8fe0bfe01f71e5f

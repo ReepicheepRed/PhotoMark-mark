@@ -1,0 +1,10 @@
+include ':app'
+
+include ':Lib_A'
+project(':Lib_A').projectDir = new File('../Libs/Lib_A')
+include ':Lib_A:sharelibrary'
+include ':Lib_A:talkingdata'
+
+include ':Lib_B'
+project(':Lib_B').projectDir = new File('../Libs/Lib_B')
+include ':Lib_B:gallerypick'
