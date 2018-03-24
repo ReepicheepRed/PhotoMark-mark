@@ -5,42 +5,13 @@
 [ ![License](http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square) ](http://www.apache.org/licenses/LICENSE-2.0)
 [ ![QQGroup](https://img.shields.io/badge/QQ群-301733278-ff69b4.svg) ](https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917)
 
-## 一个整合了大量主流开源项目的 Android Mvp 快速搭建框架
+## Fotoee是免费且简单的照片编辑器及平面设计工具，帮助各类电商卖家制作出高品质，精美的商品图片 ，帮助他们提高效率，提高产品销量!
 
-## Usage
-> New Project
->> 如果你想构建一个全新的项目,直接将整个项目 **clone** (或者下载) 下来,再将 **app** 作为主 **Module** (建议将 **arms Module** 删除,并使用 **Gradle** [远程依赖](https://github.com/JessYanCoding/MVPArms/wiki#1.1)本框架,便于更新),最后将项目包名改成自己的包名, **app Module** 包含可以直接使用的包结构,一个主流的 `MVP`+`Dagger2`+`Retrofit`+`Rxjava` 框架就这样轻松的构建成功了,现在你再参考 **Mvp** 包下的 **UserActivity** 的格式,[使用 Template 自动生成 MVP , Dagger2 相关类](https://github.com/JessYanCoding/MVPArmsTemplate),配合查阅 [Wiki 文档](https://github.com/JessYanCoding/MVPArms/wiki) 慢慢掌握本框架,看再多文章不如早点在项目中使用它,在实践中学习总是最快的
- 
-> Old Project
->> [老项目想引入此框架,可以参考 Wiki 文档 ,写的非常详细](https://github.com/JessYanCoding/MVPArms/wiki)
-
-## Wiki
-[详细使用方法及扩展功能,请参照 Wiki ](https://github.com/JessYanCoding/MVPArms/wiki)
-
-<!--##The project used [In Progress]
-[Inspired by eyepetizer（灵感来源于开眼视频,开发中...）](https://github.com/JessYanCoding/WideEyes) -->
-
-
-## Notice
-
-* [意见收集](https://github.com/JessYanCoding/MVPArms/issues/40)
-
-* [更新日志](https://github.com/JessYanCoding/MVPArms/wiki/UpdateLog)
-
-* [常见 issues](https://github.com/JessYanCoding/MVPArms/wiki/Issues)
-
-* [版本更新](https://github.com/JessYanCoding/MVPArms/wiki#1.6) 
-
-* [我们为什么要把 Dagger2 ,MVP 以及 Rxjava 引入项目中?](http://www.jianshu.com/p/91c2bb8e6369)
-
-* 看了上面的文章,对为什么使用这些技术应该比较了解了,使用这些技术对项目后期的维护和迭代特别是大型项目非常有帮助,但是在开发前期每写一个页面要多写很多 `MVP`,`Dagger2` 的类和接口,这对于开发前期确实比较头疼,现在本框架已经可以通过 [Template](https://github.com/JessYanCoding/MVPArmsTemplate) 自动生成一些 `MVP`,`Dagger2` 的模版代码,现在大家可以非常轻松的使用本框架.
-
-* 使用此框架自带自动适配功能，请参考 [AutoLayout 使用方法](https://github.com/hongyangAndroid/AndroidAutoLayout).
-
-* 此框架使用 `RxPermissions` 用于权限管理(适配 Android 6.0 ),并提供 PermissionUtil 工具类一行代码实现权限请求. 
-
-* 作为通用框架,本框架不提供与 **UI** 有关的任何第三方库(除了 `AutoLayout` 屏幕适配方案).
-
+## Main Function
+* **图片编辑**     包含水印、贴纸、标签、文字、裁剪、箭头、笔刷、图形
+* **海报编辑**     选择海报样式，编辑文字，添加调整
+* **图片拼图**     图片拼接，布局样式，边框调整，Facebook封面制作
+* **趋势推文**     推送开心一刻、百科、心灵鸡汤等休闲短文
 
 ## Feature
 
@@ -68,17 +39,6 @@
 15. [`Timber`JakeWharton大神出品Log框架容器，内部代码极少，但是思想非常不错.](https://github.com/JakeWharton/timber)
 16. [`Glide`此库为本框架默认封装图片加载库，可参照着例子更改为其他的库，Api和`Picasso`差不多,缓存机制比`Picasso`复杂,速度快，适合处理大型图片流，支持gfit，`Fresco`太大了！，在5.0以下优势很大，5.0以上系统默认使用的内存管理和`Fresco`类似.](https://github.com/bumptech/glide)
 17. [`LeakCanary`Square出品的专门用来检测`Android`和`Java`的内存泄漏,通过通知栏提示内存泄漏信息.](https://github.com/square/leakcanary)
-
- 
- 
-## Update
-* Tuesday, 13 June 2017: [**ProgressManager**](https://github.com/JessYanCoding/ProgressManager)
-* Wednesday, 31 May 2017: [**Template**](https://github.com/JessYanCoding/MVPArmsTemplate)
-* Monday, 24 April 2017: [**AppDelegate**](https://github.com/JessYanCoding/MVPArms/wiki#3.12)
-* Thursday, 13 April 2017: [**RepositoryManager**](https://github.com/JessYanCoding/MVPArms/wiki#2.3)
-* Thursday, 15 December 2016: [**AppManager**](https://github.com/JessYanCoding/MVPArms/wiki#3.11)
-* Sunday, 25 December 2016: [**GlobeConfigModule**](https://github.com/JessYanCoding/MVPArms/wiki#3.1)
-* Monday, 26 December 2016: [**Version Update**](https://github.com/JessYanCoding/MVPArms/wiki#1.6)
 
 
 ## Acknowledgements 
