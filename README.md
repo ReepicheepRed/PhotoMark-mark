@@ -5,7 +5,13 @@
 [ ![License](http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square) ](http://www.apache.org/licenses/LICENSE-2.0)
 [ ![QQGroup](https://img.shields.io/badge/QQ群-301733278-ff69b4.svg) ](https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917)
 
-## A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,Rxjava,Retrofit... ),to make your developing quicker and easier. 
+## Fotoee is a free and simple photo editor and graphic design tool to help all kinds of e-commerce vendors to produce high-quality, exquisite product pictures, to help them improve efficiency and improve product sales!
+
+Main functions:
+· image editing includes watermark, sticker, label, text, clipping, arrow, brush, graphics.
+· poster editor selects poster style, edit text and add adjustment.
+· image Mosaic, layout style, border adjustment, Facebook cover production.
+· the trend tweets promote happy moments, encyclopedia, chicken soup and other leisure passages.
 
 [中文说明](MVPArms.md)
 
